@@ -1,2 +1,2 @@
 # react-exp-geolocation
-just a sample app which show latitude an d longitude through navigator api
+just a sample ReactNative app which show latitude an d longitude through navigator api
